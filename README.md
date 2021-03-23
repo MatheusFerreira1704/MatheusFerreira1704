@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/matheus-ferreira-pc" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="left">
-  <a href="https://www.instagram.com/silvafmatheus/" target="blank"><img align="center" srcp="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/silvafmatheus/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
