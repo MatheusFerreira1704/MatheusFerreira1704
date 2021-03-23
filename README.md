@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matheus Ferreira da Silva</h1>
+<h1 align="center">Hi 👋, I'm Matheus Ferreira da Silva 👨‍💻 </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <h3 align="left">Connect with me:</h3>
