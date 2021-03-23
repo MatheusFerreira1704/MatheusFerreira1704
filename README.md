@@ -3,7 +3,7 @@
 
 
 <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusferreira1704)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704)](https://github.com/MatheusFerreira1704/github-readme-stats)
 </p>
 
 <h3 align="left">Connect with me:</h3>
