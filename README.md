@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Ferreira da Silva 👨‍💻 </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-
-![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704)
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFerreira1704&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
