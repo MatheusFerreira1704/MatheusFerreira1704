@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Ferreira da Silva 👨‍💻 </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
+
+<p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusferreira1704)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-ferreira-pc" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
