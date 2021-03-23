@@ -2,10 +2,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 
-<p>
-(https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704)](https://github.com/MatheusFerreira1704/github-readme-stats)
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-</p>
+![Matheus's github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
