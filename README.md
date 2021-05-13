@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Ferreira da Silva 👨‍💻 </h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <p align= "center">
-ABERTO A OPORTUNIDADES
+Estagiário de arquitetura/dados na Kotron
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFerreira1704&show_icons=true&theme=blueberry)
